@@ -162,7 +162,10 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
         collectionViews.layer.insertSublayer(layer, at: 0)
         
     }
-    
+    func testGit(){
+        
+        print("123,456")
+    }
   
     
     
