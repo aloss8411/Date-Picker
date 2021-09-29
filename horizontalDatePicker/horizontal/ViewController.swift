@@ -164,7 +164,7 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
     }
     func testGit(){
         
-        print("123,456")
+        print("測試完成")
     }
   
     
