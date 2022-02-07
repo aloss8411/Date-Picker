@@ -101,10 +101,10 @@
 		AD5EA50226E9B97A00B2E94D /* horizontal */ = {
 			isa = PBXGroup;
 			children = (
-				AD5EA53426E9BA6600B2E94D /* CollectionViewCell.swift */,
 				AD5EA50326E9B97A00B2E94D /* AppDelegate.swift */,
 				AD5EA50526E9B97A00B2E94D /* SceneDelegate.swift */,
 				AD5EA50926E9B97A00B2E94D /* Main.storyboard */,
+				AD5EA53426E9BA6600B2E94D /* CollectionViewCell.swift */,
 				AD5EA50726E9B97A00B2E94D /* ViewController.swift */,
 				AD5EA50F26E9B97C00B2E94D /* Assets.xcassets */,
 				AD5EA51126E9B97C00B2E94D /* LaunchScreen.storyboard */,
